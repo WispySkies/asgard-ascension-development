@@ -1,0 +1,15 @@
+name: TNTFill
+main: me.wispy.tntfill.Main
+version: 1.0
+author: Arpolix
+commands:
+  tntfill:
+    description: Fill dispensers with x tnt.
+    usage: /tntfill <amount>
+permissions:
+  tntfill.fill:
+    description: Use the tntfill command.
+    default: op
+  tntfill.overridelimits:
+    description: You do not need tnt to fill dispensers.
+    default: op

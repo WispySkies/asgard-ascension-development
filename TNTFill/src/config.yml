@@ -1,0 +1,10 @@
+messages:
+    fill_partial: '&8%dispensers% &7could not be filled.'
+    fill_success: '&7Successfully filled &8%dispensers%&7 dispensers with &8%amount% &7tnt.'
+    fill_no_permission: '&7You do not have permission to &8/tntfill'
+    fill_bad_amount: '&7You need to use a number for the amount of tnt.'
+    invalid_access: 'Console cannot tntfill.' 
+    fill_complete: '&7All dispensers filled with &8%amount% &7 tnt.'
+    no_dispensers: '&7There are no dispensers near you!'
+amounts:
+    radius: 16
