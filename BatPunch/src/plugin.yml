@@ -1,0 +1,11 @@
+name: BatPunch
+main: me.arpolix.batpunch.Main
+version: 1.0
+author: Arpolix
+commands:
+  batpunch:
+    description: Event info.
+permissions:
+  batchpunch.admin:
+    description: Allows configuring of the batpunch event.
+    default: op

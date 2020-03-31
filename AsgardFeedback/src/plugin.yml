@@ -1,0 +1,8 @@
+name: AsgardFeedback
+main: me.arpolix.asgardfeedback.Main
+version: 1.0
+author: Arpolix
+depends: [Vault, AsgardAscension]
+commands:
+  feedback:
+    description: Basic help information.

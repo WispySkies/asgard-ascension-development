@@ -1,0 +1,17 @@
+name: DarkElf
+main: me.arpolix.darkelf.DarkElfCore
+version: 1.0
+author: Arpolix
+depends: [Vault, AsgardAscension]
+commands:
+  darkelf:
+    description: Basic help information.
+permissions:
+  darkelf.member:
+    description: Become a DarkElf.
+    default: false
+  darkelf.admin:
+    description: Lock/unlock darkelf.
+    default: op
+  darkelf.preorder:
+    description: Bypasses the darkelf lock for those who preordered.

@@ -1,0 +1,7 @@
+name: ReferAFriend
+main: me.arpolix.referafriend.Main
+version: 1.0
+author: Arpolix
+commands:
+  refer:
+    description: Basic help information.
