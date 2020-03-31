@@ -22,3 +22,10 @@ WIP I think, we prob use something else now
 # TNTFill
 For factions, done but 1 issue
 - Dispensers fill completely but says 0 can't be filled, logic issue maybe...to be determined
+
+# MassiveCraftFactions (not included until I do anything custom)
+opensource factions, very well done
+Customizable so we can do whatever we need with it
+
+# GenBuckets
+Custom wall genning buckets, with vault and MCF integration
