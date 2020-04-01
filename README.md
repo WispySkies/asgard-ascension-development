@@ -19,6 +19,9 @@ Could be expanded and tweaked, talked to phoenix
 # ReferAFriend
 WIP I think, we prob use something else now
 
+# PexStaffList
+Dynamic staff list using pex (could be updated to luckperms)
+
 # TNTFill
 For factions, done but 1 issue
 - Dispensers fill completely but says 0 can't be filled, logic issue maybe...to be determined
