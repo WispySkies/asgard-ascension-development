@@ -1,0 +1,8 @@
+name: PexStaffList
+main: me.arpolix.pexstafflist.Main
+version: 1.0
+author: Arpolix
+depends: [PermissionsEx]
+commands:
+  staff:
+    description: Shows staff!
